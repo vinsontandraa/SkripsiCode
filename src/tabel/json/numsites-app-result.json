@@ -1,0 +1,81 @@
+[{
+  "num_sites": "10003030",
+  "app": "jQuery",
+  "supported": "1604830",
+  "unsupported": "8374171",
+  "not_versioned": "24029",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "8190668",
+  "app": "Google Analytics",
+  "supported": "0",
+  "unsupported": "0",
+  "not_versioned": "8190668",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "7494642",
+  "app": "WordPress",
+  "supported": "350",
+  "unsupported": "4891016",
+  "not_versioned": "2603276",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "7230612",
+  "app": "Nginx",
+  "supported": "652",
+  "unsupported": "1789692",
+  "not_versioned": "5440268",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "5977790",
+  "app": "PHP",
+  "supported": "167095",
+  "unsupported": "2355525",
+  "not_versioned": "3455170",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "5481111",
+  "app": "Google Font API",
+  "supported": "0",
+  "unsupported": "0",
+  "not_versioned": "5481111",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "4529823",
+  "app": "Google Tag Manager",
+  "supported": "0",
+  "unsupported": "0",
+  "not_versioned": "4529823",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "4067380",
+  "app": "Apache",
+  "supported": "764690",
+  "unsupported": "353510",
+  "not_versioned": "2949180",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "4047343",
+  "app": "MySQL",
+  "supported": "0",
+  "unsupported": "0",
+  "not_versioned": "4047343",
+  "non_conclusive": "0"
+},
+{
+  "num_sites": "3827039",
+  "app": "Font Awesome",
+  "supported": "1065370",
+  "unsupported": "1720967",
+  "not_versioned": "1040702",
+  "non_conclusive": "0"
+}
+]
