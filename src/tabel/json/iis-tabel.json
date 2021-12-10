@@ -1,0 +1,162 @@
+[
+  {
+    "info": "99.99",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.5.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.5.",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.0.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "16.75",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "15.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "12.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11.1.20",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.5.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "7.5.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "7.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "7.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "6.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "6.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "6.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "5.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "5.1.17.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "5.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "5.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "4.20",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "4.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "3.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.31",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.16.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "",
+    "result": "NON VERSIONED"
+  }
+]

@@ -1,0 +1,2658 @@
+[
+  {
+    "info": "3.5.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "249",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.0.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.3.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.9.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.6.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.6.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20151215",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.15.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.1.",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.09",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.10.0.31.1104",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "171222",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1529",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.5.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20150311",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2466",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.13",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.37.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.16.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.27",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3278",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "509",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.1.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.3.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.4.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "23.10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.17.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.1.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.50.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "077",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.19.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.70.81",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.5.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "19.10.15",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.16.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.16.21",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "61",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8888",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3635",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20180108",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.1.3.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20120206",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.5.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "35220",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "212",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "221",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.0.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "67",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1510821448",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1595117954",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "727",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20150416",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "959",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11.12.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "29601",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1124",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.0.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20150821",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.5.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.17",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200809160710",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "358",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.1.",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1057493",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.5.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.2.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1477294301",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.3.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "27",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.1.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1113",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1562694712",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "860",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.16.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.31",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "36",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20141001",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.0.",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.68.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.19",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "152",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.15",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.5.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "630",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.2.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6371",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "180820",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.6.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.9.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2019",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.8.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.3.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.99.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.19.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "68",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.7.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.1.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1029251148",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20150423",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20170228",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.5.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "180",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "991",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.0.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.12",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "15",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "11707190",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "32818",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.36.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1659986",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.3.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.4.23",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8.8.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.7",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.4.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1473703456",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.2.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4787330063171020502",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "351",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.25.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.32.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2199",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.18",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0.18",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "06",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "242",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.1.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.7.18",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.1.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2017",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.9.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.14",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.9.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.7.13",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.0.0.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1596583060",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1590167148",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.10.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.11.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.6.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "257",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "86",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "37366",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "08",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2015",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20190312",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.3.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "126",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "234",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.55.55",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200810135426",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "162",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.8.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "161",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "023",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2014.1.318",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "994",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.11.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "26",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "814038",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200814113907",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.7.21",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20170907",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10.10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.8.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "0463",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "13",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1440706772",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "116015",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.8.16",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "59",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "91515770",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "267",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.41",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100640",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1540441361",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.11.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.12.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6646596",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200203",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10.1.77",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.0.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.33.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "119753",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.1.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.0.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1000.12.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "45892199",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.14",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.5.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.1.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "100.1.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "110",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.51.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.5.22",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.3.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1894",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "34582",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.15",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.10.0.610",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.22",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "10",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.11.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "276",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20141010",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0.4.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3773",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "29924",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.93",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.6.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "18.8.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.12.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "157",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7456",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "2560",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.13",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "365",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.1.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.6.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.4.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "53",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.9.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.08",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.0.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "58829",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.11.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.9.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.71.61",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "41141",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.7.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.0.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.46.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "29900",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3373",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.51",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "21238",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "164",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1593879547",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6755",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8.14",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.5.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.6.19",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1489592413",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.1.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "490",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "39297",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "161020",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20160816",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20171027",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "0816142734",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.8.4",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1596797948",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9.9.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.9.32",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.42.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "201412171250",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.1.19",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.2.5.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "07",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.4.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "202008182044",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "33.1.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "190082501",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.6.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200729",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "14",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20140825",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "78",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1534433407",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "6.10.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "200.1.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "647653",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "02797",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.10.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "07078",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.16",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.4.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.8.2",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "85",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "81",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "999",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "22042013",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.2.6",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "160",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.3.1.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.7.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "5.0.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "202008031937",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "20200813170829",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.18.0",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1596231229",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "4.3.3",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.11.1",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.11.8",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "41",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1596808951",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "7.0.5",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "3.0.0.9",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "24",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "9833",
+    "result": "SUPPORTED"
+  },
+  {
+    "info": "1.3.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.9.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.0.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.25",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1105.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.11",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.02",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.72",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.9.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.645",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.49",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": ".8.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.20",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.13",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.19",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.21",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0903.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "02.2.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.14.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.19.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.8.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.15.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.7.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.9.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.22.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.7.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.29",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6488.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.0.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.17.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.19",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.50.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "01",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.195",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.4.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.17.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6499.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.63",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.71.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.18",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": ".",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.70",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.5.42",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "3.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.83",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.73",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.20",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.10.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.14",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.43",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.8.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.19.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9995",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.3.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.32",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "..",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.10",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.13.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.8.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.21",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.537",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.18",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.19.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.52",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.17",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.2.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.17.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.6.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "(a",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.15.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1.6.2.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.6.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.2.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.12.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.3.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.10.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.11.99",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.4.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.7.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.7.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.6.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.6.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.44",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.32",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.0.16",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.88",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.14",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.36",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.2.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.3.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "001",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.0.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.00",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.5.14",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9999.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.12",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.2.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.27",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.8.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.3.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.1.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": ".1.12.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.4.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.01",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.9",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.5.13",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.8.11",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "00",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.3.2.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.9.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "0.0.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.12.0",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.6.5",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.14",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.5.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.4.19",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.10.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.10.4",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.1.6",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.2.8",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.19.1",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "2.12.3",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "1.9.7",
+    "result": "UNSUPPORTED"
+  },
+  {
+    "info": "",
+    "result": "NON VERSIONED"
+  },
+  {
+    "info": "3",
+    "result": "same versions"
+  }
+]
