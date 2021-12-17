@@ -433,15 +433,15 @@ function App() {
         <div className="first-info">
           <h3>Overall Technologies Used </h3>
           <ul>
-            <li>Supported : 5968474</li>
-            <li>Unsupported : 27835200</li>
-            <li>Non-conclusive : 83680305</li>
-            <li>Not-versioned : 11171956</li>
+            <li>Supported : 5.968.474</li>
+            <li>Unsupported : 27.835.200</li>
+            <li>Non-conclusive : 83.680.305</li>
+            <li>Not-versioned : 11.171.956</li>
           </ul>
         </div>
         <div className="first-info">
           <h3>Website with all supported apps</h3>
-          <h7>Number of websites : 4511 </h7>
+          <h7>Number of websites : 4.511 </h7>
         </div>
         <div className="App">
           <BasicTable data={DataUnsupportedJson} columns={columnsUnsupported} />
